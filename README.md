@@ -1,0 +1,1 @@
+These are the course files for the 2022-03 offering of CAGEF's "Data Visualization and Advanced Graphics in R". It will contain all of the lecture and data files necessary for the course. Each week new lectures and assignments will be added and students will need to update from this repository to the UofT Jupyter Hubs using a specific link.

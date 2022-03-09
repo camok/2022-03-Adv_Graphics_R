@@ -1,0 +1,561 @@
+Period,From date,To date,Geographic area,Age group,Male Cases,Male Rate,Female Cases,Female Rate,Total Cases,Total Rate,Male Hospitalizations,Male Hospitalizations Rate,Female Hospitalizations,Female Hospitalizations Rate,Total Hospitalizations Count,Total Hospitalizations Rate,Male Deaths,Male Death Rate,Female Deaths,Female Death Rate,Total Deaths,Total Deaths Rate,Unknown Sex Deaths,Unknown Sex Hospitalizations,Unknown Sex Cases,Unknown Age and Sex Deaths,Unknown Age and Sex Hospitalizations,Unknown Age and Sex Cases
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,0 to 4,572,154.2,428,121.6,1026,141.9,40,10.8,20,5.7,60,8.3,0,0,1,0.3,1,0.1,0,0,26,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,12 to 19,1241,182.7,1318,202.7,2620,197.1,8,1.2,6,0.9,14,1.1,0,0,0,0,0,0,0,0,61,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,20 to 39,3197,150.8,5501,270.7,8843,213,26,1.2,42,2.1,69,1.7,1,0,0,0,1,0,0,1,145,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,40 to 59,2928,153.1,4135,208.6,7163,183.9,64,3.3,60,3,124,3.2,2,0.1,4,0.2,6,0.2,0,0,100,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,5 to 11,923,167.8,760,143.8,1734,160.8,2,0.4,8,1.5,10,0.9,0,0,0,0,0,0,0,0,51,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,60 to 79,1462,105.8,1453,95.8,2950,101.7,163,11.8,126,8.3,289,10,13,0.9,12,0.8,25,0.9,0,0,35,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,80+,540,204.7,851,217.1,1399,213.3,113,42.8,99,25.3,212,32.3,23,8.7,21,5.4,44,6.7,0,0,8,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ontario,All ages,10868,149.3,14450,193.8,25751,174.8,416,5.7,361,4.8,778,5.3,39,0.5,38,0.5,77,0.5,0,1,433,0,0,7
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,0 to 4,6,224.8,11,471.7,18,359.9,1,37.5,1,42.9,2,40,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,12 to 19,20,426.1,29,640.2,52,563.7,1,21.3,0,0,1,10.8,0,0,0,0,0,0,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,20 to 39,101,740.3,142,1107.6,264,997.6,1,7.3,2,15.6,3,11.3,0,0,0,0,0,0,0,0,21,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,40 to 59,80,558.5,116,772.7,212,722.6,7,48.9,0,0,7,23.9,1,7,0,0,1,3.4,0,0,16,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,5 to 11,19,473.1,24,620.2,43,545.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,60 to 79,36,231.2,40,240.3,80,248.3,5,32.1,4,24,9,27.9,0,0,1,6,1,3.1,0,0,4,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,80+,22,675.5,41,920.9,63,817.2,3,92.1,1,22.5,4,51.9,1,30.7,0,0,1,13,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Algoma Public Health,All ages,284,488.2,403,675.4,733,622,18,30.9,8,13.4,26,22.1,2,3.4,1,1.7,3,2.5,0,0,46,0,0,1
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,0 to 4,3,67.8,4,95.5,7,81.3,2,45.2,1,23.9,3,34.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,12 to 19,8,106.4,5,70.1,13,88.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,20 to 39,28,138.6,61,315.1,91,230,2,9.9,0,0,2,5.1,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,40 to 59,23,115.2,50,251.2,73,183.1,0,0,2,10,2,5,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,5 to 11,11,168.1,3,47.2,14,108.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,60 to 79,13,86.9,14,85.2,27,86,5,33.4,0,0,5,15.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,80+,4,156.4,4,100,8,122,0,0,0,0,0,0,0,0,1,25,1,15.2,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Brant County Health Unit,All ages,90,118.1,141,182.2,233,151.7,9,11.8,3,3.9,12,7.8,0,0,1,1.3,1,0.7,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,0 to 4,28,137.7,30,155,58,146.1,4,19.7,1,5.2,5,12.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,12 to 19,69,194.6,69,202,138,198.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,20 to 39,135,138.5,204,217.4,340,177.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,40 to 59,124,129.2,189,187,315,159.8,2,2.1,0,0,2,1,1,1,0,0,1,0.5,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,5 to 11,49,163,40,137,89,150.2,0,0,1,3.4,1,1.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,60 to 79,56,90.8,64,94.8,120,92.9,3,4.9,4,5.9,7,5.4,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,80+,21,212.2,24,155.9,45,177.9,7,70.7,1,6.5,8,31.6,0,0,1,6.5,1,4,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Durham Region Health Department ,All ages,482,137.4,620,172,1105,155.3,16,4.6,7,1.9,23,3.2,1,0.3,1,0.3,2,0.3,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,0 to 4,5,107.6,1,22.6,6,66.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,12 to 19,10,140.7,18,263.7,28,200.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,20 to 39,37,187.7,89,490.3,126,332.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,40 to 59,33,155.5,76,354.4,109,255.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,5 to 11,8,122,11,170.6,19,146.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,60 to 79,21,88,24,96.3,45,92.3,3,12.6,5,20.1,8,16.4,0,0,1,4,1,2.1,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,80+,19,415.5,30,479.4,49,452.4,1,21.9,1,16,2,18.5,1,21.9,0,0,1,9.2,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Grey Bruce Health Unit,All ages,134,152.8,249,281.5,383,217.4,4,4.6,6,6.8,10,5.7,1,1.1,1,1.1,2,1.1,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,0 to 4,5,169,5,171.9,10,170.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,12 to 19,9,170,8,160.4,17,165.4,0,0,1,20.1,1,9.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,20 to 39,21,146,70,534.6,91,331.2,0,0,1,7.6,1,3.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,40 to 59,22,140.2,40,265.4,62,201.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,5 to 11,7,153.8,6,135.9,13,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,60 to 79,18,119.3,22,140.5,40,130.1,3,19.9,1,6.4,4,13,1,6.6,0,0,1,3.3,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,80+,5,193.7,8,240.7,13,220.2,1,38.7,0,0,1,16.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Haldimand-Norfolk Health Unit,All ages,87,143.7,159,267.4,246,205,4,6.6,3,5,7,5.8,1,1.7,0,0,1,0.8,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",0 to 4,7,179.1,6,163.5,13,171.6,2,51.2,0,0,2,26.4,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",12 to 19,9,125.1,13,188.5,22,156.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",20 to 39,39,199.1,73,411.8,113,302.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",40 to 59,32,132.7,68,278.4,100,206,1,4.1,0,0,1,2.1,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",5 to 11,12,208.2,6,109.6,18,160.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",60 to 79,27,93.4,32,106.3,59,100,2,6.9,2,6.6,4,6.8,0,0,2,6.6,2,3.4,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",80+,16,282.7,19,260.3,35,270.1,1,17.7,1,13.7,2,15.4,0,0,1,13.7,1,7.7,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",All ages,142,149.3,217,227,360,188.8,6,6.3,3,3.1,9,4.7,0,0,3,3.1,3,1.6,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,0 to 4,20,125.7,12,79.4,32,103.1,1,6.3,0,0,1,3.2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,12 to 19,55,158.3,51,152.6,107,156.9,1,2.9,0,0,1,1.5,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,20 to 39,70,94.2,119,159.4,193,129.6,0,0,1,1.3,1,0.7,0,0,0,0,0,0,0,0,4,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,40 to 59,97,110.8,123,135.2,222,124.3,1,1.1,2,2.2,3,1.7,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,5 to 11,30,110,25,96.3,55,103.3,0,0,1,3.9,1,1.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,60 to 79,43,86.9,41,73.3,84,79.7,5,10.1,1,1.8,6,5.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,80+,8,79.6,17,111.8,25,99,3,29.9,2,13.2,5,19.8,1,10,0,0,1,4,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Halton Region Public Health,All ages,323,107.9,388,124.7,718,117.6,11,3.7,7,2.2,18,2.9,1,0.3,0,0,1,0.2,0,0,7,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,0 to 4,13,85.4,11,76.1,25,84.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,12 to 19,50,185.5,39,151.8,91,172.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,20 to 39,80,95.3,213,269,296,181.5,0,0,1,1.3,1,0.6,0,0,0,0,0,0,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,40 to 59,96,128.1,184,241.5,281,185.9,0,0,6,7.9,6,4,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,5 to 11,26,119.5,20,95.6,46,107.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,60 to 79,37,67.7,55,91.5,92,80.2,5,9.2,2,3.3,7,6.1,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,80+,22,206.4,22,128.9,44,158.7,6,56.3,1,5.9,7,25.2,2,18.8,1,5.9,3,10.8,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",City of Hamilton Public Health Services,All ages,325,112.8,544,185.3,876,150.6,11,3.8,10,3.4,21,3.6,2,0.7,1,0.3,3,0.5,0,0,7,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,0 to 4,9,217.4,5,129.6,14,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,12 to 19,26,367.6,36,516.1,62,441.3,1,14.1,0,0,1,7.1,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,20 to 39,53,261.6,130,706.7,187,483.7,2,9.9,2,10.9,5,12.9,0,0,0,0,0,0,0,1,4,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,40 to 59,46,208.9,82,366.1,129,290.4,3,13.6,3,13.4,6,13.5,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,5 to 11,13,216.6,14,241.8,27,229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,60 to 79,26,117.9,25,105.1,51,111.2,7,31.7,7,29.4,14,30.5,1,4.5,0,0,1,2.2,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,80+,18,420.3,28,483.4,46,456.6,7,163.4,7,120.9,14,139,1,23.3,1,17.3,2,19.9,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Hastings Prince Edward Public Health,All ages,192,223.7,320,367.8,517,299.1,20,23.3,19,21.8,40,23.1,2,2.3,1,1.1,3,1.7,0,1,5,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,0 to 4,3,116.8,2,80.5,5,98.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,12 to 19,13,266.3,12,254.9,25,260.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,20 to 39,25,200.2,69,593.4,94,389.8,0,0,1,8.6,1,4.1,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,40 to 59,36,264.9,61,449.6,97,357.2,1,7.4,0,0,1,3.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,5 to 11,6,147,6,153.3,12,150.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,60 to 79,18,139.1,26,191.1,44,165.7,1,7.7,1,7.3,2,7.5,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,80+,22,919.7,23,609.8,45,730,4,167.2,2,53,6,97.3,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Chatham-Kent Public Health,All ages,123,232.3,199,370.7,322,302,6,11.3,4,7.5,10,9.4,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",0 to 4,19,402.5,25,587.3,44,490.1,3,63.5,0,0,3,33.4,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",12 to 19,82,925.2,77,901.9,160,919.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",20 to 39,114,394.2,215,785.8,331,588.1,0,0,1,3.7,1,1.8,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",40 to 59,108,407,123,463.9,232,437.3,4,15.1,1,3.8,5,9.4,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",5 to 11,40,564.9,32,475.7,72,521.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",60 to 79,27,117.5,36,140.8,64,131.8,3,13.1,2,7.8,5,10.3,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",80+,2,43.2,7,107.2,9,80.6,1,21.6,2,30.6,3,26.9,1,21.6,0,0,1,9,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",All ages,392,377.9,515,488.2,912,435.9,11,10.6,6,5.7,17,8.1,1,1,0,0,1,0.5,0,0,5,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,0 to 4,12,363.6,4,129.1,16,250.1,1,30.3,0,0,1,15.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,12 to 19,15,266.8,14,251.6,29,259.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,20 to 39,30,186.6,69,448,99,314.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,40 to 59,43,267.5,47,286.5,90,277.1,3,18.7,1,6.1,4,12.3,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,5 to 11,4,82.6,4,84,8,83.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,60 to 79,28,168.7,23,130.4,51,149,3,18.1,0,0,3,8.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,80+,4,129.2,6,133.2,10,131.6,2,64.6,2,44.4,4,52.6,1,32.3,0,0,1,13.2,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Lambton Public Health,All ages,136,207.3,167,247.9,303,227.9,9,13.7,3,4.5,12,9,1,1.5,0,0,1,0.8,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",0 to 4,7,177.2,6,155.2,13,166.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",12 to 19,21,275,25,342.1,46,307.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",20 to 39,47,253.3,103,580.7,153,421.6,0,0,1,5.6,1,2.8,0,0,0,0,0,0,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",40 to 59,47,197.7,74,298.7,123,253.4,2,8.4,0,0,2,4.1,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",5 to 11,9,150.1,8,139.5,17,144.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",60 to 79,23,94.7,25,96.1,48,95.4,2,8.2,2,7.7,4,8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",80+,8,180.6,19,322.9,27,261.8,2,45.1,2,34,4,38.8,0,0,1,17,1,9.7,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",All ages,162,182.8,260,284.8,427,237.3,6,6.8,5,5.5,11,6.1,0,0,1,1.1,1,0.6,0,0,5,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,0 to 4,11,83.8,13,104.6,24,93.9,2,15.2,2,16.1,4,15.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,12 to 19,34,145.3,45,197.2,79,170.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,20 to 39,128,165.5,237,319.1,365,240.7,0,0,3,4,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,40 to 59,91,143.9,149,230.5,241,188.4,0,0,2,3.1,2,1.6,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,5 to 11,27,136,18,94.7,45,115.8,0,0,1,5.3,1,2.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,60 to 79,36,78.1,48,92.1,84,85.5,3,6.5,7,13.4,10,10.2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,80+,22,252.9,31,228.7,53,238.2,6,69,5,36.9,11,49.4,0,0,1,7.4,1,4.5,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Middlesex-London Health Unit,All ages,349,138.6,541,209,891,174.5,11,4.4,20,7.7,31,6.1,0,0,1,0.4,1,0.2,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,0 to 4,22,198,15,143.6,37,171.6,2,18,2,19.1,4,18.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,12 to 19,54,254.5,35,174.5,95,230.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,20 to 39,116,190.9,209,368.1,328,279.1,0,0,0,0,0,0,1,1.6,0,0,1,0.9,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,40 to 59,115,187.2,151,238.7,267,214.1,3,4.9,3,4.7,6,4.8,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,5 to 11,31,186.4,16,100.2,49,150.3,0,0,1,6.3,1,3.1,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,60 to 79,62,112.9,63,103.7,127,109.8,5,9.1,7,11.5,12,10.4,1,1.8,0,0,1,0.9,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,80+,16,141.8,42,245.2,59,207.7,4,35.5,4,23.4,8,28.2,0,0,2,11.7,2,7,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Niagara Region Public Health,All ages,416,175.3,531,217.3,963,199.9,14,5.9,17,7,31,6.4,2,0.8,2,0.8,4,0.8,0,0,16,0,0,1
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,0 to 4,15,540.3,7,251.3,22,395.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,12 to 19,18,343.8,27,540.5,45,439.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,20 to 39,40,273.4,119,839.3,159,551.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,40 to 59,63,370.2,96,559.6,159,465.3,0,0,1,5.8,1,2.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,5 to 11,15,351,13,309.2,28,330.3,0,0,1,23.8,1,11.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,60 to 79,31,181.8,36,205.4,67,193.8,1,5.9,4,22.8,5,14.5,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,80+,11,350,11,253.8,22,294.2,0,0,2,46.1,2,26.7,1,31.8,0,0,1,13.4,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",North Bay Parry Sound District Health Unit,All ages,193,300.9,309,474.1,502,388.2,1,1.6,8,12.3,9,7,1,1.6,0,0,1,0.8,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,0 to 4,24,944.9,15,648.8,55,1133.6,1,39.4,1,43.3,2,41.2,0,0,0,0,0,0,0,0,16,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,12 to 19,33,777.6,43,1071.5,92,1114.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,20 to 39,96,925.7,119,1227.4,240,1196.1,0,0,1,10.3,1,5,0,0,0,0,0,0,0,0,25,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,40 to 59,68,673.3,91,897.5,171,844.9,0,0,3,29.6,3,14.8,0,0,2,19.7,2,9.9,0,0,12,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,5 to 11,32,856.8,20,542.4,84,1131.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,60 to 79,43,492.6,34,404.3,84,490.1,2,22.9,2,23.8,4,23.3,1,11.5,1,11.9,2,11.7,0,0,7,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,80+,10,751.9,37,1966,48,1494.4,0,0,2,106.3,2,62.3,0,0,1,53.1,1,31.1,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Northwestern Health Unit,All ages,306,745.5,359,894.4,778,958.3,3,7.3,9,22.4,12,14.8,1,2.4,4,10,5,6.2,0,0,113,0,0,4
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,0 to 4,32,124.3,24,95.7,56,110.2,0,0,1,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,12 to 19,102,210.4,114,239.9,228,237.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,20 to 39,297,190.7,387,253,715,231.6,0,0,2,1.3,2,0.6,0,0,0,0,0,0,0,0,31,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,40 to 59,218,160.1,274,194.4,525,189.5,4,2.9,4,2.8,8,2.9,0,0,0,0,0,0,0,0,33,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,5 to 11,67,169.4,77,198.2,149,190,0,0,1,2.6,1,1.3,0,0,0,0,0,0,0,0,5,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,60 to 79,84,92.9,77,76.9,174,91.3,4,4.4,6,6,10,5.2,0,0,1,1,1,0.5,0,0,13,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,80+,26,157.6,38,151.8,66,159,6,36.4,2,8,8,19.3,1,6.1,2,8,3,7.2,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Ottawa Public Health,All ages,826,161.1,992,187,1915,183.6,14,2.7,16,3,30,2.9,1,0.2,3,0.6,4,0.4,0,0,97,0,0,1
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,0 to 4,29,69,25,62.4,55,67,0,0,2,5,2,2.4,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,12 to 19,56,70.3,47,63,104,67.4,1,1.3,0,0,1,0.6,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,20 to 39,191,75.5,307,129,502,102.2,5,2,5,2.1,10,2,0,0,0,0,0,0,0,0,4,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,40 to 59,174,86.4,210,99.5,387,93.8,3,1.5,3,1.4,6,1.5,0,0,0,0,0,0,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,5 to 11,56,90,50,84.1,108,88.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,60 to 79,104,85.4,88,66.7,192,75.7,11,9,6,4.5,17,6.7,2,1.6,0,0,2,0.8,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,80+,24,118.4,42,149.7,66,136.6,4,19.7,8,28.5,12,24.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peel Public Health,All ages,634,81.2,769,98.2,1414,90.4,24,3.1,24,3.1,48,3.1,2,0.3,0,0,2,0.1,0,0,11,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,0 to 4,6,142.1,3,72.9,10,119.9,1,23.7,0,0,1,12,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,12 to 19,8,115.8,9,136.3,17,125.8,0,0,1,15.1,1,7.4,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,20 to 39,19,109.7,67,411.4,87,258.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,40 to 59,11,60.8,36,201.4,48,133.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,5 to 11,7,116.2,2,34.3,9,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,60 to 79,16,94.1,18,100.6,34,97.4,3,17.6,1,5.6,4,11.5,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,80+,8,242.9,4,83.6,12,148.5,3,91.1,0,0,3,37.1,2,60.7,0,0,2,24.8,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Huron Perth Health Unit,All ages,75,102.9,139,189.4,217,148.4,7,9.6,2,2.7,9,6.2,2,2.7,0,0,2,1.4,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,0 to 4,4,114.1,9,296.3,13,198.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,12 to 19,17,290.8,12,206.9,30,257.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,20 to 39,30,161,80,430,110,295.4,3,16.1,0,0,3,8.1,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,40 to 59,25,143.3,48,265.5,73,205.5,1,5.7,0,0,1,2.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,5 to 11,9,175.7,9,183.7,18,179.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,60 to 79,18,99.2,19,94.7,37,96.8,1,5.5,1,5,2,5.2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,80+,7,191.7,18,340.4,25,279.7,2,54.8,3,56.7,5,55.9,0,0,1,18.9,1,11.2,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Peterborough Public Health ,All ages,110,152,195,257.4,306,206.6,7,9.7,4,5.3,11,7.4,0,0,1,1.3,1,0.7,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,0 to 4,20,941.2,24,1122.5,45,1055.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,12 to 19,32,768.1,36,924.7,69,856.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,20 to 39,122,1105.2,122,1184.4,246,1152.8,1,9.1,3,29.1,4,18.7,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,40 to 59,73,662,96,876.5,169,768.8,0,0,2,18.3,2,9.1,0,0,1,9.1,1,4.5,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,5 to 11,26,733.2,29,823.6,55,778.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,60 to 79,25,267.9,27,289.8,52,278.8,0,0,2,21.5,2,10.7,0,0,1,10.7,1,5.4,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,80+,5,346.3,7,318.6,12,329.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Porcupine Health Unit,All ages,303,709.9,341,805.8,648,762.4,1,2.3,7,16.5,8,9.4,0,0,2,4.7,2,2.4,0,0,4,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,0 to 4,3,110.7,1,36.8,4,73.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,12 to 19,8,177.9,6,141.5,15,171.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,20 to 39,17,121.4,39,330.4,56,217,1,7.1,0,0,1,3.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,40 to 59,29,211.6,33,242.8,63,230.8,1,7.3,0,0,1,3.7,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,5 to 11,2,47.8,3,75,5,61.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,60 to 79,17,129.5,11,79.6,28,103.9,5,38.1,1,7.2,6,22.3,1,7.6,0,0,1,3.7,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,80+,4,167.2,6,162.5,10,164.4,0,0,2,54.2,2,32.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Renfrew County and District Health Unit,All ages,80,146.5,99,183.8,181,166.9,7,12.8,3,5.6,10,9.2,1,1.8,0,0,1,0.9,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,0 to 4,3,53.8,6,115.3,9,83.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,12 to 19,13,135.1,12,131,26,138.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,20 to 39,32,130.5,87,371.4,119,248.2,0,0,3,12.8,3,6.3,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,40 to 59,46,159.6,57,195.9,103,177.8,4,13.9,5,17.2,9,15.5,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,5 to 11,15,180.1,8,97.7,24,145.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,60 to 79,26,100.6,23,84.6,49,92.4,6,23.2,3,11,9,17,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,80+,11,244.9,28,439,40,368,3,66.8,1,15.7,4,36.8,1,22.3,0,0,1,9.2,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Eastern Ontario Health Unit,All ages,146,136.2,221,203.4,370,171.4,13,12.1,12,11,25,11.6,1,0.9,0,0,1,0.5,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,0 to 4,28,185,16,111.4,45,152.6,1,6.6,1,7,2,6.8,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,12 to 19,47,173.7,62,237.4,109,205,0,0,1,3.8,1,1.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,20 to 39,208,264.2,291,401.9,511,338.1,0,0,1,1.4,1,0.7,0,0,0,0,0,0,0,0,12,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,40 to 59,160,196.4,172,210.3,336,205.8,2,2.5,1,1.2,3,1.8,0,0,0,0,0,0,0,0,4,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,5 to 11,39,174.1,29,135.7,70,159.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,60 to 79,66,101.7,68,96.7,136,100.6,9,13.9,8,11.4,17,12.6,2,3.1,0,0,2,1.5,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,80+,24,198.5,36,220.1,62,218,2,16.5,4,24.5,6,21.1,2,16.5,2,12.2,4,14.1,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Simcoe Muskoka District Health Unit ,All ages,573,189.9,674,222.6,1270,210.1,14,4.6,16,5.3,30,5,4,1.3,2,0.7,6,1,0,0,23,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,0 to 4,20,429.4,20,441.8,40,435.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,12 to 19,30,340.4,36,427.1,66,382.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,20 to 39,90,334.4,241,961.8,331,636.9,3,11.1,1,4,4,7.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,40 to 59,95,345.5,175,639.1,270,492,3,10.9,1,3.7,4,7.3,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,5 to 11,23,306.6,17,241.6,40,275.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,60 to 79,58,254.2,65,267.2,124,263,8,35.1,6,24.7,14,29.7,1,4.4,1,4.1,2,4.2,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,80+,22,546,37,589.7,59,572.6,3,74.5,8,127.5,11,106.8,0,0,1,15.9,1,9.7,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Public Health Sudbury & Districts,All ages,338,330.6,591,573.6,930,453.1,17,16.6,16,15.5,33,16.1,1,1,2,1.9,3,1.5,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,0 to 4,18,454.2,19,506.1,39,505.4,2,50.5,2,53.3,4,51.8,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,12 to 19,36,527.7,38,583.9,81,607.7,1,14.7,1,15.4,2,15,0,0,0,0,0,0,0,0,7,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,20 to 39,115,527.5,187,947.3,304,731.8,0,0,5,25.3,5,12,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,40 to 59,94,478.3,134,672.4,231,583.6,3,15.3,4,20.1,7,17.7,0,0,0,0,0,0,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,5 to 11,28,477.5,23,416.7,55,483.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,60 to 79,54,300.4,46,249.7,101,277.5,6,33.4,6,32.6,12,33,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,80+,18,575.8,37,799.1,56,722,6,191.9,5,108,11,141.8,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Thunder Bay District Health Unit,All ages,363,458.3,484,616.5,867,549.8,18,22.7,23,29.3,41,26,0,0,0,0,0,0,0,0,20,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,0 to 4,2,227.5,2,237.5,4,232.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,12 to 19,0,0,1,76.7,1,36.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,20 to 39,5,126.5,10,282.8,15,200.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,40 to 59,4,93.2,7,161.6,11,127.6,0,0,1,23.1,1,11.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,5 to 11,4,316.7,0,0,4,160.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,60 to 79,5,113.2,5,111.2,10,112.2,1,22.6,0,0,1,11.2,1,22.6,0,0,1,11.2,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,80+,1,127.1,2,175.6,3,155.8,0,0,1,87.8,1,51.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Timiskaming Health Unit,All ages,21,123.5,27,159.9,48,141.7,1,5.9,2,11.8,3,8.9,1,5.9,0,0,1,3,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,0 to 4,19,115.9,9,57.4,28,87.3,4,24.4,1,6.4,5,15.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,12 to 19,28,95.2,32,113.2,60,104,0,0,1,3.5,1,1.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,20 to 39,102,102.6,201,224.3,304,160.8,5,5,0,0,5,2.6,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,40 to 59,97,125.6,132,170,229,147.9,4,5.2,5,6.4,9,5.8,0,0,1,1.3,1,0.6,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,5 to 11,26,107.2,19,81.6,45,94.7,0,0,2,8.6,2,4.2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,60 to 79,39,79.8,41,76.7,80,78.2,7,14.3,3,5.6,10,9.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,80+,13,145.9,23,179.9,36,166,4,44.9,6,46.9,10,46.1,1,11.2,0,0,1,4.6,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Region of Waterloo Public Health and Emergency Services,All ages,324,106.4,458,152.3,783,129.4,24,7.9,18,6,42,6.9,1,0.3,1,0.3,2,0.3,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,0 to 4,12,137,6,73,18,106,2,22.8,1,12.2,3,17.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,12 to 19,32,212.9,42,288.7,74,250.2,1,6.7,1,6.9,2,6.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,20 to 39,48,110.6,100,240.1,149,175.2,0,0,1,2.4,1,1.2,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,40 to 59,54,130,70,167.6,124,148.8,2,4.8,1,2.4,3,3.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,5 to 11,14,108.2,5,40.6,19,75.2,1,7.7,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,60 to 79,37,130.9,23,74.5,60,101.4,6,21.2,4,13,10,16.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,80+,8,158,13,170.8,21,165.7,4,79,0,0,4,31.6,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Wellington-Dufferin-Guelph Public Health,All ages,205,132.3,259,165,465,149,16,10.3,8,5.1,24,7.7,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,0 to 4,14,131.8,10,99.5,24,116.1,4,37.7,1,9.9,5,24.2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,12 to 19,44,201.5,62,304.8,107,253.7,2,9.2,0,0,2,4.7,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,20 to 39,152,247.4,186,348.7,344,299.7,3,4.9,0,0,3,2.6,0,0,0,0,0,0,0,0,6,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,40 to 59,139,252.1,186,327.2,325,290.2,5,9.1,1,1.8,6,5.4,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,5 to 11,27,164.8,20,126.8,47,146.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,60 to 79,69,160.4,68,147.3,137,153.6,8,18.6,7,15.2,15,16.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,80+,19,242,27,222.4,46,230.1,6,76.4,6,49.4,12,60,4,50.9,0,0,4,20,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Windsor-Essex County Health Unit ,All ages,465,215,560,260.9,1032,239.5,28,12.9,15,7,43,10,4,1.8,0,0,4,0.9,0,0,7,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,0 to 4,37,127.5,17,61.7,54,95.5,4,13.8,1,3.6,5,8.8,0,0,1,3.6,1,1.8,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,12 to 19,64,102.2,63,106.6,128,105.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,20 to 39,140,90.4,227,150.3,368,120.3,0,0,4,2.6,4,1.3,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,40 to 59,155,92.8,197,109.2,355,102.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,5 to 11,48,100.9,53,115.8,102,109.2,1,2.1,0,0,1,1.1,0,0,0,0,0,0,0,0,1,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,60 to 79,83,76.3,81,67.9,166,72.8,6,5.5,8,6.7,14,6.1,0,0,1,0.8,1,0.4,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,80+,29,143.6,43,157.7,72,151.7,4,19.8,10,36.7,14,29.5,1,5,2,7.3,3,6.3,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",York Region Public Health,All ages,556,94.2,681,111.6,1245,103.7,15,2.5,23,3.8,38,3.2,1,0.2,4,0.7,5,0.4,0,0,8,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,0 to 4,105,148.3,57,85.7,164,119.4,2,2.8,1,1.5,3,2.2,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,12 to 19,182,152.5,189,164.7,377,161.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,20 to 39,443,87.7,636,125.9,1094,108.3,0,0,2,0.4,2,0.2,0,0,0,0,0,0,0,0,15,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,40 to 59,384,102,506,126.7,903,116.4,4,1.1,4,1,8,1,0,0,0,0,0,0,0,0,13,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,5 to 11,180,190.4,144,160.2,326,176.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,60 to 79,193,82.1,174,63.8,369,72.7,17,7.2,12,4.4,29,5.7,2,0.9,3,1.1,5,1,0,0,2,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,80+,86,162.3,117,136.3,203,146.2,16,30.2,8,9.3,24,17.3,2,3.8,3,3.5,5,3.6,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Toronto Public Health,All ages,1573,108.2,1824,118.9,3437,115,39,2.7,27,1.8,66,2.2,4,0.3,6,0.4,10,0.3,0,0,40,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,0 to 4,11,167.7,8,130.3,19,149.6,1,15.2,1,16.3,2,15.7,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,12 to 19,16,148.3,11,106.7,27,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,20 to 39,26,96.1,92,364.8,118,225.7,0,0,1,4,1,1.9,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,40 to 59,46,161,82,289.3,128,224.9,1,3.5,4,14.1,5,8.8,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,5 to 11,13,138.5,6,66.2,19,102.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,60 to 79,23,101.7,11,45.1,34,72.3,7,31,1,4.1,8,17,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,80+,5,118.1,4,64.6,9,86.3,2,47.2,0,0,2,19.2,0,0,0,0,0,0,0,0,0,0,0,0
+recent COVID-19 cases,"February 16, 2022","March 2, 2022",Southwestern Public Health,All ages,140,128.2,214,195.1,354,161.7,11,10.1,7,6.4,18,8.2,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,0 to 4,17282,4658.4,15573,4423.7,33056,4572,381,102.7,281,79.8,666,92.1,2,0.5,4,1.1,6,0.8,0,4,201,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,12 to 19,46810,6890.1,47657,7330.8,95071,7151,193,28.4,200,30.8,396,29.8,4,0.6,2,0.3,6,0.5,0,3,604,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,20 to 39,200592,9463.2,220620,10856.3,423852,10208.7,1997,94.2,2020,99.4,4033,97.1,88,4.2,45,2.2,141,3.4,8,16,2640,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,40 to 59,141888,7416.8,163845,8264.8,307250,7887.3,5549,290.1,3954,199.5,9522,244.4,577,30.2,315,15.9,898,23.1,6,19,1517,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,5 to 11,34759,6318.8,31445,5950.5,66625,6177.4,95,17.3,85,16.1,180,16.7,0,0,2,0.4,2,0.2,0,0,421,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,60 to 79,67550,4886.3,65294,4303.2,133426,4601.3,9313,673.7,6892,454.2,16233,559.8,2596,187.8,1544,101.8,4156,143.3,16,28,582,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,80+,18003,6824.5,29565,7541.4,47761,7282.5,5377,2038.3,5699,1453.7,11099,1692.3,3273,1240.7,3978,1014.7,7286,1111,35,23,193,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ontario,All ages,527022,7239.9,574131,7701.7,1107408,7516,22908,314.7,19131,256.6,42132,286,6541,89.9,5890,79,12497,84.8,66,93,6255,1,0,97
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,0 to 4,97,3634.3,81,3473.4,181,3619.3,7,262.3,2,85.8,9,180,0,0,0,0,0,0,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,12 to 19,171,3642.9,234,5165.6,412,4466.6,4,85.2,1,22.1,5,54.2,0,0,0,0,0,0,0,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,20 to 39,807,5914.7,1000,7800.3,1868,7058.6,19,139.3,11,85.8,31,117.1,1,7.3,0,0,1,3.8,0,1,61,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,40 to 59,597,4167.5,777,5175.9,1424,4853.9,32,223.4,16,106.6,48,163.6,3,20.9,2,13.3,5,17,0,0,50,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,5 to 11,184,4581.7,192,4961.2,379,4806,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,60 to 79,345,2215.7,349,2096.3,705,2188.1,42,269.7,27,162.2,69,214.2,7,45,7,42,14,43.5,0,0,11,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,80+,109,3346.6,194,4357.6,303,3930.5,26,798.3,18,404.3,44,570.8,7,214.9,6,134.8,13,168.6,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Algoma Public Health,All ages,2310,3970.7,2828,4739.9,5275,4476.4,130,223.5,75,125.7,206,174.8,18,30.9,15,25.1,33,28,0,1,137,0,0,2
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,0 to 4,209,4723.2,174,4154.7,386,4481.6,6,135.6,4,95.5,10,116.1,0,0,0,0,0,0,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,12 to 19,477,6342.2,482,6758.3,964,6578.9,2,26.6,0,0,2,13.6,0,0,0,0,0,0,0,0,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,20 to 39,1473,7290.3,1981,10234.6,3487,8814.2,17,84.1,18,93,35,88.5,1,4.9,1,5.2,2,5.1,0,0,33,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,40 to 59,1198,5999.6,1540,7735.6,2749,6893.9,40,200.3,40,200.9,80,200.6,5,25,2,10,7,17.6,0,0,11,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,5 to 11,360,5500.4,332,5225.1,698,5411.3,1,15.3,1,15.7,2,15.5,0,0,0,0,0,0,0,0,6,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,60 to 79,574,3835.9,628,3821.3,1207,3844.2,76,507.9,63,383.4,139,442.7,17,113.6,11,66.9,28,89.2,0,0,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,80+,168,6570.2,239,5973.5,412,6282.4,50,1955.4,50,1249.7,101,1540.1,21,821.3,18,449.9,39,594.7,0,1,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Brant County Health Unit,All ages,4461,5855.5,5378,6950.7,9908,6452.3,192,252,176,227.5,369,240.3,44,57.8,32,41.4,76,49.5,0,1,69,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,0 to 4,924,4543.2,909,4695,1836,4624.8,21,103.3,15,77.5,36,90.7,0,0,0,0,0,0,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,12 to 19,2344,6611,2404,7037.3,4750,6823,7,19.7,9,26.3,16,23,0,0,0,0,0,0,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,20 to 39,9047,9278.7,10576,11268.7,19644,10265.7,84,86.2,89,94.8,173,90.4,3,3.1,2,2.1,5,2.6,0,0,21,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,40 to 59,7201,7500.3,8465,8375.6,15678,7955.3,232,241.6,178,176.1,410,208,16,16.7,10,9.9,26,13.2,0,0,12,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,5 to 11,1824,6068.5,1698,5817.7,3524,5948.3,3,10,4,13.7,7,11.8,0,0,0,0,0,0,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,60 to 79,2921,4737.3,2976,4410,5904,4571.7,363,588.7,281,416.4,644,498.7,83,134.6,67,99.3,151,116.9,1,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,80+,707,7144.3,1225,7957.1,1932,7639.1,174,1758.3,198,1286.1,372,1470.9,94,949.9,167,1084.8,261,1032,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Durham Region Health Department ,All ages,24971,7115.9,28256,7837.9,53277,7488.8,884,251.9,774,214.7,1658,233.1,196,55.9,246,68.2,443,62.3,1,0,50,0,0,3
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,0 to 4,113,2430.6,97,2193.1,210,2314.8,2,43,5,113,7,77.2,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,12 to 19,318,4473.2,350,5127.5,677,4858.3,1,14.1,1,14.6,2,14.4,0,0,0,0,0,0,0,0,9,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,20 to 39,916,4647.2,1204,6632.5,2136,5641.2,11,55.8,10,55.1,21,55.5,1,5.1,0,0,1,2.6,0,0,16,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,40 to 59,726,3421.5,908,4233.7,1645,3855.5,31,146.1,19,88.6,51,119.5,3,14.1,5,23.3,8,18.8,0,1,11,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,5 to 11,189,2882,190,2947.1,381,2929.6,1,15.2,0,0,1,7.7,0,0,0,0,0,0,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,60 to 79,465,1948.5,471,1890.6,943,1933.3,56,234.7,45,180.6,101,207.1,15,62.9,9,36.1,24,49.2,0,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,80+,126,2755.3,195,3116,324,2991.4,23,503,16,255.7,39,360.1,8,174.9,9,143.8,17,157,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Grey Bruce Health Unit,All ages,2854,3254.9,3415,3860.2,6317,3586.1,125,142.6,96,108.5,222,126,27,30.8,23,26,50,28.4,0,1,48,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,0 to 4,98,3311.9,86,2957.4,185,3153.2,4,135.2,1,34.4,5,85.2,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,12 to 19,294,5552.4,301,6036.9,600,5836,0,0,2,40.1,2,19.5,0,0,0,0,0,0,0,0,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,20 to 39,1101,7654.3,1346,10280.3,2464,8967.5,6,41.7,10,76.4,16,58.2,0,0,2,15.3,2,7.3,0,0,17,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,40 to 59,903,5756.4,1053,6987.9,1968,6398.8,35,223.1,26,172.5,61,198.3,5,31.9,1,6.6,6,19.5,0,0,12,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,5 to 11,223,4898.9,219,4959.2,444,4950.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,60 to 79,508,3365.6,516,3295,1027,3339.4,57,377.6,36,229.9,93,302.4,16,106,12,76.6,28,91,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,80+,150,5811.7,218,6558.4,369,6248.9,25,968.6,20,601.7,45,762.1,28,1084.9,21,631.8,49,829.8,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Haldimand-Norfolk Health Unit,All ages,3282,5420.1,3743,6295.4,7069,5890.4,127,209.7,95,159.8,222,185,49,80.9,36,60.5,85,70.8,0,0,44,0,0,3
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",0 to 4,80,2047.1,86,2344,167,2204,3,76.8,1,27.3,4,52.8,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",12 to 19,252,3503.4,294,4262.7,552,3917.7,1,13.9,0,0,1,7.1,0,0,0,0,0,0,0,0,6,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",20 to 39,1337,6824.6,1195,6741.5,2572,6892.3,8,40.8,6,33.8,14,37.5,0,0,0,0,0,0,0,0,40,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",40 to 59,926,3839,1031,4221.3,1982,4082.8,25,103.6,11,45,36,74.2,4,16.6,1,4.1,5,10.3,0,0,25,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",5 to 11,183,3175.4,153,2795.5,337,2999.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",60 to 79,541,1872.2,518,1720.4,1066,1806.6,59,204.2,33,109.6,93,157.6,16,55.4,13,43.2,30,50.8,1,1,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",80+,178,3145.4,268,3672.2,447,3449.9,21,371.1,20,274,42,324.1,22,388.8,38,520.7,60,463.1,0,1,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Haliburton, Kawartha, Pine Ridge District Health Unit ",All ages,3501,3680.2,3548,3711.4,7131,3738.8,117,123,71,74.3,190,99.6,42,44.1,52,54.4,95,49.8,1,2,82,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,0 to 4,647,4067.9,562,3717.2,1209,3897,16,100.6,10,66.1,26,83.8,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,12 to 19,2310,6647.7,2172,6497.9,4501,6602.1,6,17.3,5,15,11,16.1,0,0,0,0,0,0,0,0,19,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,20 to 39,6645,8942.5,7160,9591.4,13845,9294.6,37,49.8,49,65.6,86,57.7,2,2.7,0,0,2,1.3,0,0,40,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,40 to 59,6487,7409.1,6791,7462.2,13323,7461.4,158,180.5,96,105.5,255,142.8,12,13.7,5,5.5,17,9.5,0,1,45,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,5 to 11,1771,6493.6,1515,5836.6,3293,6186.4,6,22,4,15.4,10,18.8,0,0,0,0,0,0,0,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,60 to 79,2153,4352.5,2151,3847,4313,4092.8,211,426.6,166,296.9,377,357.8,53,107.1,27,48.3,80,75.9,0,0,9,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,80+,714,7105.2,1233,8111.8,1952,7731,182,1811.1,182,1197.4,365,1445.6,117,1164.3,123,809.2,240,950.5,0,1,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Halton Region Public Health,All ages,20732,6926.7,21590,6936.1,42448,6952.1,616,205.8,512,164.5,1130,185.1,184,61.5,155,49.8,339,55.5,0,2,126,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,0 to 4,713,4682.5,594,4109.9,1322,4454.2,13,85.4,8,55.4,21,70.8,0,0,0,0,0,0,0,0,15,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,12 to 19,2094,7767.9,2214,8617.1,4340,8243.1,11,40.8,7,27.2,18,34.2,0,0,0,0,0,0,0,0,32,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,20 to 39,8554,10192.6,10081,12731.9,18799,11525.8,92,109.6,98,123.8,191,117.1,1,1.2,4,5.1,5,3.1,0,1,164,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,40 to 59,5907,7884.6,7279,9551.7,13313,8809.3,268,357.7,212,278.2,481,318.3,11,14.7,12,15.7,23,15.2,0,1,127,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,5 to 11,1397,6419.2,1278,6111,2702,6331.4,4,18.4,4,19.1,8,18.7,0,0,0,0,0,0,0,0,27,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,60 to 79,2984,5461.4,2851,4742.3,5867,5112.5,515,942.6,393,653.7,908,791.2,107,195.8,77,128.1,184,160.3,0,0,32,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,80+,794,7449.8,1370,8023.9,2181,7864.6,285,2674,338,1979.6,625,2253.7,139,1304.2,171,1001.5,311,1121.4,1,2,17,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",City of Hamilton Public Health Services,All ages,22444,7790.8,25668,8741.4,48526,8341.8,1188,412.4,1060,361,2252,387.1,258,89.6,264,89.9,523,89.9,1,4,414,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,0 to 4,133,3213.3,113,2928.2,250,3125.8,3,72.5,2,51.8,6,75,0,0,0,0,0,0,0,1,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,12 to 19,293,4143.1,349,5002.9,646,4598.5,1,14.1,3,43,4,28.5,0,0,0,0,0,0,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,20 to 39,1166,5754.3,1407,7648.8,2606,6741.2,11,54.3,12,65.2,24,62.1,0,0,1,5.4,1,2.6,0,1,33,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,40 to 59,760,3451.9,1012,4518.5,1776,3998.7,18,81.8,20,89.3,38,85.6,1,4.5,1,4.5,2,4.5,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,5 to 11,243,4049.3,235,4059.4,479,4062.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,60 to 79,426,1931,497,2089.5,924,2015.4,50,226.6,60,252.2,111,242.1,12,54.4,9,37.8,21,45.8,0,1,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,80+,110,2568.3,185,3194.1,295,2928,31,723.8,27,466.2,58,575.7,10,233.5,11,189.9,21,208.4,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Hastings Prince Edward Public Health,All ages,3133,3650,3799,4367,6979,4038.1,114,132.8,124,142.5,241,139.4,23,26.8,22,25.3,45,26,0,3,47,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,0 to 4,111,4320.7,92,3700.7,204,4035.6,3,116.8,2,80.5,5,98.9,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,12 to 19,310,6349.9,363,7711.9,674,7028.9,2,41,1,21.2,3,31.3,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,20 to 39,1043,8354,1330,11438.9,2374,9845.7,17,136.2,16,137.6,33,136.9,0,0,1,8.6,1,4.1,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,40 to 59,906,6667.2,1057,7790.4,1965,7235.7,33,242.8,31,228.5,64,235.7,5,36.8,5,36.9,10,36.8,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,5 to 11,235,5758.4,224,5723,459,5741.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,60 to 79,448,3462.1,484,3556.7,932,3510.6,67,517.8,47,345.4,114,429.4,24,185.5,6,44.1,30,113,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,80+,120,5016.7,192,5090.1,312,5061.6,26,1087,33,874.9,59,957.2,6,250.8,25,662.8,31,502.9,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Chatham-Kent Public Health,All ages,3175,5997.6,3744,6974.4,6924,6494.1,148,279.6,130,242.2,278,260.7,35,66.1,37,68.9,72,67.5,0,0,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",0 to 4,196,4151.7,201,4721.6,398,4433.1,4,84.7,0,0,4,44.6,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",12 to 19,557,6284.6,678,7941,1245,7154.8,1,11.3,1,11.7,2,11.5,0,0,0,0,0,0,0,0,10,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",20 to 39,2204,7621.6,2557,9345.4,4791,8512.9,4,13.8,4,14.6,8,14.2,1,3.5,0,0,1,1.8,0,0,30,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",40 to 59,1007,3794.8,1134,4277,2147,4047.1,24,90.4,16,60.3,40,75.4,1,3.8,1,3.8,2,3.8,0,0,6,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",5 to 11,410,5790.1,342,5084,752,5446.1,0,0,2,29.7,2,14.5,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",60 to 79,472,2053.3,445,1740.7,921,1896.9,41,178.4,36,140.8,77,158.6,11,47.9,6,23.5,17,35,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",80+,72,1555.1,93,1423.8,166,1487.2,23,496.8,27,413.3,50,447.9,6,129.6,6,91.9,12,107.5,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Kingston, Frontenac and Lennox & Addington Public Health",All ages,4921,4743.8,5451,5167.1,10424,4982.1,97,93.5,86,81.5,183,87.5,19,18.3,13,12.3,32,15.3,0,0,52,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,0 to 4,160,4848.5,144,4648.2,305,4767.1,4,121.2,3,96.8,7,109.4,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,12 to 19,397,7061.5,449,8069.7,851,7607.7,1,17.8,4,71.9,5,44.7,0,0,1,18,1,8.9,0,0,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,20 to 39,1460,9081.3,1857,12057.7,3333,10588.3,9,56,11,71.4,20,63.5,2,12.4,0,0,2,6.4,0,0,16,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,40 to 59,1190,7404.2,1474,8984.5,2673,8230.2,45,280,26,158.5,71,218.6,4,24.9,3,18.3,7,21.6,0,0,9,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,5 to 11,313,6461.6,254,5335,572,5955.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,60 to 79,782,4712,747,4236.4,1532,4475.7,88,530.2,53,300.6,141,411.9,37,222.9,17,96.4,54,157.8,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,80+,196,6332.8,296,6573.4,496,6528,52,1680.1,43,954.9,96,1263.5,33,1066.2,30,666.2,63,829.2,0,1,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Lambton Public Health,All ages,4502,6862.2,5224,7754.7,9769,7346.7,199,303.3,140,207.8,340,255.7,76,115.8,51,75.7,127,95.5,0,1,43,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",0 to 4,100,2531.6,103,2664.9,203,2597.6,1,25.3,0,0,1,12.8,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",12 to 19,269,3522.8,308,4215.1,581,3888.1,0,0,1,13.7,1,6.7,0,0,0,0,0,0,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",20 to 39,951,5125.6,1298,7318.4,2257,6219.3,10,53.9,7,39.5,17,46.8,0,0,0,0,0,0,0,0,8,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",40 to 59,779,3277,1034,4174.2,1820,3749.3,29,122,16,64.6,45,92.7,2,8.4,2,8.1,4,8.2,0,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",5 to 11,218,3634.5,223,3889.8,442,3767.8,1,16.7,1,17.4,2,17,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",60 to 79,530,2181.2,547,2103,1079,2144.7,67,275.7,42,161.5,109,216.7,19,78.2,8,30.8,27,53.7,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",80+,140,3160.3,265,4503,407,3945.7,27,609.5,28,475.8,55,533.2,18,406.3,34,577.7,52,504.1,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022","Leeds, Grenville & Lanark District Health Unit",All ages,2988,3371,3778,4137.7,6790,3773.4,135,152.3,95,104,230,127.8,39,44,44,48.2,83,46.1,0,0,24,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,0 to 4,494,3763.5,489,3932.8,983,3845.9,17,129.5,20,160.8,37,144.8,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,12 to 19,1643,7022.6,1728,7571.3,3372,7295.7,9,38.5,14,61.3,23,49.8,2,8.5,0,0,2,4.3,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,20 to 39,5726,7402.9,7104,9563.7,12840,8468,81,104.7,98,131.9,179,118.1,3,3.9,1,1.3,4,2.6,0,0,10,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,40 to 59,3567,5640.4,4378,6772,7952,6217.9,169,267.2,119,184.1,288,225.2,20,31.6,7,10.8,27,21.1,0,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,5 to 11,1000,5037.8,916,4821.6,1918,4937.2,3,15.1,5,26.3,8,20.6,0,0,0,0,0,0,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,60 to 79,1682,3646.7,1743,3346.2,3425,3487.3,287,622.2,239,458.8,526,535.6,81,175.6,41,78.7,122,124.2,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,80+,522,6001.4,878,6478.3,1400,6291.9,174,2000.5,189,1394.5,363,1631.4,100,1149.7,95,701,195,876.4,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Middlesex-London Health Unit,All ages,14634,5812.2,17237,6659.7,31891,6245.7,740,293.9,684,264.3,1424,278.9,206,81.8,144,55.6,350,68.5,0,0,20,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,0 to 4,410,3690,369,3532.8,789,3660.2,23,207,13,124.5,36,167,0,0,0,0,0,0,0,0,10,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,12 to 19,1338,6306.3,1448,7221.2,2825,6845.3,11,51.8,9,44.9,20,48.5,0,0,0,0,0,0,0,0,39,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,20 to 39,5280,8691.1,6823,12015.9,12210,10388.4,71,116.9,97,170.8,168,142.9,4,6.6,2,3.5,6,5.1,0,0,107,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,40 to 59,4121,6707.8,5231,8270.5,9405,7543,148,240.9,128,202.4,276,221.4,10,16.3,9,14.2,19,15.2,0,0,53,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,5 to 11,853,5129.6,789,4939.3,1678,5146.8,6,36.1,4,25,10,30.7,0,0,0,0,0,0,0,0,36,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,60 to 79,2432,4429.2,2560,4213.2,5018,4338.2,300,546.4,223,367,523,452.1,85,154.8,64,105.3,149,128.8,0,0,26,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,80+,792,7021.3,1531,8938.1,2325,8184,189,1675.5,227,1325.2,416,1464.3,131,1161.3,219,1278.5,350,1232,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Niagara Region Public Health,All ages,15229,6416.7,18754,7673.7,34257,7111.3,748,315.2,701,286.8,1449,300.8,230,96.9,294,120.3,524,108.8,0,0,274,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,0 to 4,73,2629.7,66,2369.8,139,2499.6,0,0,2,71.8,2,36,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,12 to 19,192,3667.6,165,3303.3,358,3499.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,20 to 39,585,3997.8,843,5945.4,1428,4956.3,3,20.5,2,14.1,5,17.4,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,40 to 59,495,2908.5,559,3258.7,1054,3084.3,19,111.6,15,87.4,34,99.5,1,5.9,1,5.8,2,5.9,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,5 to 11,127,2971.5,96,2283.5,223,2630.3,1,23.4,1,23.8,2,23.6,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,60 to 79,254,1489.5,255,1455.1,509,1472.1,32,187.7,20,114.1,52,150.4,8,46.9,1,5.7,9,26,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,80+,73,2322.6,98,2261.2,171,2287,12,381.8,12,276.9,24,321,5,159.1,7,161.5,12,160.5,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",North Bay Parry Sound District Health Unit,All ages,1799,2805.1,2082,3194.5,3882,3002.1,67,104.5,52,79.8,119,92,14,21.8,9,13.8,23,17.8,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,0 to 4,132,5196.9,129,5579.6,310,6389.1,1,39.4,2,86.5,3,61.8,0,0,0,0,0,0,0,0,49,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,12 to 19,241,5678.6,245,6105.2,548,6636.8,0,0,2,49.8,2,24.2,0,0,0,0,0,0,0,0,62,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,20 to 39,810,7811,864,8911.8,1764,8791.4,10,96.4,12,123.8,22,109.6,1,9.6,0,0,1,5,0,0,90,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,40 to 59,567,5613.9,596,5878.3,1210,5978.6,26,257.4,19,187.4,45,222.3,2,19.8,4,39.5,6,29.6,0,0,47,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,5 to 11,213,5702.8,172,4665,464,6251.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,60 to 79,262,3001.5,242,2877.9,529,3086.7,18,206.2,16,190.3,34,198.4,3,34.4,3,35.7,6,35,0,0,25,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,80+,41,3082.7,84,4463.3,132,4109.6,4,300.8,8,425.1,12,373.6,3,225.6,3,159.4,6,186.8,0,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Northwestern Health Unit,All ages,2278,5549.6,2342,5835,5017,6179.7,59,143.7,59,147,118,145.3,9,21.9,10,24.9,19,23.4,0,0,397,0,0,38
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,0 to 4,1141,4433,1045,4166.8,2198,4325.2,10,38.9,8,31.9,19,37.4,0,0,0,0,0,0,0,1,12,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,12 to 19,2996,6178.6,3126,6579.7,6160,6416.7,9,18.6,11,23.2,21,21.9,0,0,0,0,0,0,0,1,38,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,20 to 39,11103,7128.7,13111,8569.7,24344,7884.9,107,68.7,107,69.9,214,69.3,1,0.6,2,1.3,3,1,0,0,130,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,40 to 59,7387,5426.5,8620,6115.3,16122,5818.4,309,227,234,166,544,196.3,33,24.2,14,9.9,47,17,0,1,115,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,5 to 11,2470,6243.8,2310,5946.1,4802,6124.4,2,5.1,3,7.7,5,6.4,0,0,0,0,0,0,0,0,22,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,60 to 79,3159,3492.2,3089,3086.1,6290,3300.9,500,552.7,354,353.7,857,449.7,146,161.4,94,93.9,240,125.9,0,3,42,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,80+,1105,6699.8,1934,7727,3056,7360,290,1758.3,265,1058.8,558,1343.9,199,1206.6,269,1074.8,469,1129.5,1,3,17,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Ottawa Public Health,All ages,29363,5728,33238,6265.3,62979,6037.5,1227,239.4,982,185.1,2218,212.6,379,73.9,379,71.4,759,72.8,1,9,378,0,0,2
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,0 to 4,2418,5754.5,2138,5332.5,4573,5569.2,44,104.7,37,92.3,82,99.9,1,2.4,0,0,1,1.2,0,1,17,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,12 to 19,7305,9176.9,6858,9191.2,14231,9227.9,17,21.4,22,29.5,39,25.3,0,0,1,1.3,1,0.6,0,0,68,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,20 to 39,35339,13962.6,35635,14975,71400,14539.9,249,98.4,251,105.5,500,101.8,15,5.9,4,1.7,19,3.9,0,0,426,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,40 to 59,22526,11181.3,25482,12074.3,48200,11684.7,645,320.2,483,228.9,1128,273.5,74,36.7,43,20.4,117,28.4,0,0,192,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,5 to 11,4827,7760.9,4434,7458.9,9306,7650.3,15,24.1,9,15.1,24,19.7,0,0,1,1.7,1,0.8,0,0,45,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,60 to 79,10337,8483.9,9630,7298.4,20038,7895.5,1007,826.5,740,560.8,1749,689.2,263,215.9,152,115.2,416,163.9,1,2,71,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,80+,1815,8957.7,2673,9526.7,4499,9310.8,562,2773.7,575,2049.3,1138,2355.1,313,1544.8,335,1194,648,1341.1,0,1,11,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peel Public Health,All ages,84580,10836.9,86863,11091.3,172281,11017.9,2539,325.3,2117,270.3,4660,298,666,85.3,536,68.4,1203,76.9,1,4,838,0,0,8
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,0 to 4,108,2558,91,2209.8,202,2422.1,4,94.7,2,48.6,6,71.9,0,0,0,0,0,0,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,12 to 19,236,3415.8,283,4287.2,519,3841.6,0,0,1,15.1,1,7.4,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,20 to 39,803,4634.7,1163,7141.1,1979,5887.8,9,51.9,5,30.7,14,41.7,1,5.8,1,6.1,2,6,0,0,13,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,40 to 59,613,3389.7,828,4632.9,1451,4035.5,21,116.1,18,100.7,39,108.5,4,22.1,4,22.4,8,22.2,0,0,10,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,5 to 11,216,3586.3,155,2661.4,372,3140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,60 to 79,405,2381.9,411,2296.7,818,2344,53,311.7,24,134.1,77,220.6,22,129.4,15,83.8,37,106,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,80+,139,4221.1,241,5034.5,382,4727.7,31,941.4,18,376,49,606.4,27,819.9,24,501.4,51,631.2,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Huron Perth Health Unit,All ages,2522,3461.4,3173,4323.9,5727,3916.1,118,162,68,92.7,186,127.2,54,74.1,44,60,98,67,0,0,32,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,0 to 4,104,2967.2,105,3457.4,209,3194.7,4,114.1,2,65.9,6,91.7,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,12 to 19,260,4448.2,304,5242.3,567,4869.5,0,0,2,34.5,2,17.2,0,0,0,0,0,0,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,20 to 39,1045,5607.1,1227,6595.4,2274,6106.2,14,75.1,9,48.4,23,61.8,1,5.4,0,0,1,2.7,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,40 to 59,573,3284.2,676,3739.1,1251,3521.4,38,217.8,16,88.5,55,154.8,4,22.9,1,5.5,5,14.1,0,1,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,5 to 11,171,3339.2,167,3409.6,338,3373.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,60 to 79,311,1713.1,343,1710.5,655,1714.3,39,214.8,34,169.6,73,191.1,13,71.6,10,49.9,23,60.2,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,80+,121,3314.2,224,4236,345,3859.5,27,739.5,29,548.4,56,626.5,11,301.3,19,359.3,30,335.6,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Peterborough Public Health ,All ages,2585,3572.4,3050,4026,5644,3810.5,122,168.6,92,121.4,215,145.2,29,40.1,30,39.6,59,39.8,0,1,9,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,0 to 4,188,8847.1,164,7670.7,358,8397.8,0,0,3,140.3,3,70.4,0,0,0,0,0,0,0,0,6,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,12 to 19,282,6769.1,327,8399.7,611,7581.6,2,48,5,128.4,7,86.9,0,0,0,0,0,0,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,20 to 39,970,8787,1090,10581.5,2072,9709.5,12,108.7,25,242.7,37,173.4,0,0,0,0,0,0,0,0,12,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,40 to 59,589,5341,687,6272.3,1278,5814.1,31,281.1,27,246.5,58,263.9,1,9.1,4,36.5,5,22.7,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,5 to 11,275,7755.2,276,7838.7,552,7811,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,60 to 79,247,2646.5,287,3080.7,537,2879.5,30,321.4,31,332.8,61,327.1,8,85.7,14,150.3,22,118,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,80+,72,4986.1,87,3959.9,159,4366.9,8,554,5,227.6,13,357,13,900.3,7,318.6,20,549.3,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Porcupine Health Unit,All ages,2623,6145.6,2919,6897.6,5568,6550.6,83,194.5,96,226.8,179,210.6,22,51.5,25,59.1,47,55.3,0,0,26,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,0 to 4,56,2066.4,53,1949.2,109,2007.7,1,36.9,0,0,1,18.4,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,12 to 19,140,3113.9,184,4338.6,328,3754.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,20 to 39,391,2792.1,665,5634.2,1062,4115.2,6,42.8,7,59.3,13,50.4,1,7.1,0,0,1,3.9,0,0,6,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,40 to 59,366,2671.1,545,4010.3,915,3352.6,20,146,16,117.7,36,131.9,3,21.9,1,7.4,4,14.7,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,5 to 11,105,2507.8,104,2600,211,2577.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,60 to 79,256,1950.3,274,1983.8,531,1971.2,37,281.9,32,231.7,69,256.1,9,68.6,3,21.7,12,44.5,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,80+,78,3260.9,140,3792,218,3583.2,19,794.3,28,758.4,47,772.5,8,334.4,8,216.7,16,263,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Renfrew County and District Health Unit,All ages,1394,2552.3,1965,3648.6,3376,3112.3,83,152,83,154.1,166,153,21,38.4,12,22.3,33,30.4,0,0,17,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,0 to 4,213,3817.2,231,4438.9,444,4117.2,6,107.5,6,115.3,12,111.3,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,12 to 19,564,5862.8,597,6515.3,1164,6197.1,3,31.2,2,21.8,5,26.6,0,0,0,0,0,0,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,20 to 39,1726,7038,2406,10271.1,4143,8640.4,32,130.5,38,162.2,70,146,0,0,0,0,0,0,0,0,11,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,40 to 59,1629,5652.3,2100,7216,3733,6444.9,66,229,65,223.4,131,226.2,8,27.8,4,13.7,12,20.7,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,5 to 11,447,5368.1,414,5055.6,868,5255.5,0,0,2,24.4,2,12.1,0,0,0,0,0,0,0,0,7,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,60 to 79,1095,4235.6,1139,4190.1,2239,4221.7,185,715.6,160,588.6,345,650.5,42,162.5,30,110.4,72,135.8,0,0,5,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,80+,380,8459.5,691,10834.1,1075,9889.6,110,2448.8,107,1677.6,217,1996.3,52,1157.6,76,1191.6,128,1177.6,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Eastern Ontario Health Unit,All ages,6055,5647.5,7581,6977.8,13670,6332.8,402,374.9,380,349.8,782,362.3,102,95.1,110,101.2,212,98.2,0,0,34,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,0 to 4,605,3998.1,535,3724.1,1142,3871.4,11,72.7,11,76.6,22,74.6,0,0,1,7,1,3.4,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,12 to 19,1535,5673.6,1680,6432.1,3219,6053.7,3,11.1,7,26.8,10,18.8,0,0,0,0,0,0,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,20 to 39,6312,8016.4,7062,9753.7,13421,8879.7,49,62.2,66,91.2,115,76.1,3,3.8,1,1.4,4,2.6,0,0,47,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,40 to 59,4671,5734.2,5155,6302,9848,6032.2,143,175.6,109,133.3,252,154.4,17,20.9,14,17.1,31,19,0,0,22,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,5 to 11,1274,5685.7,1154,5401.1,2432,5555.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,60 to 79,2153,3317.4,2130,3028.8,4292,3174,314,483.8,229,325.6,543,401.6,96,147.9,55,78.2,151,111.7,0,0,9,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,80+,542,4483.4,865,5289.2,1409,4953.8,114,943,127,776.6,241,847.3,95,785.8,128,782.7,223,784,0,0,2,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Simcoe Muskoka District Health Unit ,All ages,17095,5664.7,18586,6139.4,35773,5917.7,634,210.1,549,181.3,1183,195.7,211,69.9,199,65.7,410,67.8,0,0,92,0,0,2
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,0 to 4,174,3735.5,185,4086.6,359,3908.5,2,42.9,1,22.1,3,32.7,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,12 to 19,470,5333,501,5943.8,974,5649,3,34,7,83,11,63.8,0,0,0,0,0,0,0,1,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,20 to 39,1741,6469,2372,9466.8,4117,7922,39,144.9,36,143.7,75,144.3,2,7.4,2,8,4,7.7,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,40 to 59,1265,4600.5,1574,5748.1,2843,5180.4,65,236.4,30,109.6,95,173.1,6,21.8,2,7.3,8,14.6,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,5 to 11,478,6372.5,435,6181.6,913,6280.1,1,13.3,1,14.2,2,13.8,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,60 to 79,691,3028.7,733,3013.4,1425,3022.9,94,412,88,361.8,182,386.1,18,78.9,16,65.8,34,72.1,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,80+,255,6329.1,411,6550.8,666,6464.1,51,1265.8,49,781,100,970.6,30,744.6,32,510,62,601.8,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Public Health Sudbury & Districts,All ages,5074,4963.5,6214,6031.2,11301,5505.8,255,249.4,212,205.8,468,228,56,54.8,52,50.5,108,52.6,0,1,13,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,0 to 4,170,4289.7,201,5354.3,382,4950.1,6,151.4,5,133.2,11,142.5,0,0,0,0,0,0,0,0,11,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,12 to 19,364,5335.7,343,5270.4,724,5431.4,4,58.6,3,46.1,7,52.5,0,0,0,0,0,0,0,0,17,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,20 to 39,1741,7986.2,1740,8814.1,3519,8471.1,29,133,30,152,59,142,0,0,1,5.1,1,2.4,0,0,38,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,40 to 59,1060,5393.9,1185,5945.8,2265,5722.3,46,234.1,50,250.9,96,242.5,4,20.4,4,20.1,8,20.2,0,0,20,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,5 to 11,262,4467.9,263,4764.5,539,4734.7,1,17.1,3,54.3,4,35.1,0,0,0,0,0,0,0,0,14,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,60 to 79,557,3098.4,483,2622.3,1052,2890.4,71,394.9,63,342,134,368.2,19,105.7,13,70.6,32,87.9,0,0,12,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,80+,127,4062.7,219,4730,349,4499.7,30,959.7,29,626.3,59,760.7,15,479.8,23,496.8,38,489.9,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Thunder Bay District Health Unit,All ages,4283,5407.6,4438,5653.4,8839,5604.7,187,236.1,183,233.1,370,234.6,38,48,41,52.2,79,50.1,0,0,118,0,0,3
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,0 to 4,22,2502.8,30,3562.9,53,3079.6,0,0,1,118.8,1,58.1,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,12 to 19,26,1842.7,48,3681,74,2725.6,1,70.9,2,153.4,3,110.5,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,20 to 39,174,4400.6,231,6532.8,405,5407.2,0,0,5,141.4,5,66.8,0,0,1,28.3,1,13.4,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,40 to 59,120,2796.6,165,3808,285,3304.7,5,116.5,7,161.6,12,139.1,1,23.3,0,0,1,11.6,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,5 to 11,75,5938.2,33,2672.1,108,4323.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,60 to 79,74,1675.7,92,2046.7,166,1862.9,12,271.7,10,222.5,22,246.9,2,45.3,2,44.5,4,44.9,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,80+,27,3430.7,39,3424.1,66,3426.8,3,381.2,6,526.8,9,467.3,6,762.4,5,439,11,571.1,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Timiskaming Health Unit,All ages,518,3046.9,638,3778.7,1157,3414.5,21,123.5,31,183.6,52,153.5,9,52.9,8,47.4,17,50.2,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,0 to 4,584,3561.8,498,3177.2,1082,3373.9,18,109.8,11,70.2,29,90.4,0,0,1,6.4,1,3.1,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,12 to 19,1771,6022.6,1926,6813.4,3703,6420.6,14,47.6,7,24.8,21,36.4,0,0,0,0,0,0,0,0,6,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,20 to 39,8110,8154,8686,9693.9,16817,8894.9,84,84.5,76,84.8,160,84.6,2,2,1,1.1,3,1.6,0,0,21,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,40 to 59,4886,6325.4,5668,7300.5,10562,6819.4,219,283.5,137,176.5,356,229.9,26,33.7,5,6.4,31,20,0,0,8,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,5 to 11,1219,5027.4,1039,4460.4,2259,4751.7,4,16.5,4,17.2,8,16.8,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,60 to 79,2216,4535.6,2138,3999.9,4355,4256.7,331,677.5,249,465.8,580,566.9,72,147.4,43,80.4,115,112.4,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,80+,702,7880.6,1101,8612.3,1811,8348.7,219,2458.5,186,1454.9,405,1867,118,1324.7,130,1016.9,248,1143.3,0,0,8,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Region of Waterloo Public Health and Emergency Services,All ages,19492,6400.9,21063,7004.4,40601,6708.3,889,291.9,670,222.8,1559,257.6,219,71.9,180,59.9,399,65.9,0,0,46,0,0,1
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,0 to 4,318,3630.6,294,3577.1,632,3722.5,11,125.6,6,73,18,106,0,0,0,0,0,0,0,1,20,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,12 to 19,876,5829.1,975,6702.4,1906,6444.6,4,26.6,4,27.5,8,27,0,0,0,0,0,0,0,0,55,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,20 to 39,3199,7372.3,3809,9146.6,7149,8407,25,57.6,27,64.8,54,63.5,0,0,1,2.4,1,1.2,0,2,141,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,40 to 59,2332,5613.3,2612,6252.2,5027,6033.3,64,154.1,52,124.5,119,142.8,5,12,4,9.6,10,12,1,3,83,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,5 to 11,533,4120.9,543,4407.1,1101,4359.5,2,15.5,2,16.2,4,15.8,0,0,1,8.1,1,4,0,0,25,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,60 to 79,1018,3600.5,919,2975.8,1986,3357.2,136,481,82,265.5,225,380.4,30,106.1,13,42.1,46,77.8,3,7,49,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,80+,278,5491.9,437,5741.7,723,5705,72,1422.4,58,762.1,132,1041.6,44,869.2,52,683.2,100,789.1,4,2,8,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Wellington-Dufferin-Guelph Public Health,All ages,8554,5519,9589,6107.6,18524,5937.3,314,202.6,231,147.1,560,179.5,79,51,71,45.2,158,50.6,8,15,381,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,0 to 4,458,4312.6,391,3889,853,4126,19,178.9,11,109.4,30,145.1,0,0,0,0,0,0,0,0,4,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,12 to 19,1514,6933.5,1662,8169.9,3185,7551.2,12,55,6,29.5,18,42.7,1,4.6,0,0,1,2.4,0,0,9,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,20 to 39,7125,11597.2,6921,12975.7,14148,12326.7,64,104.2,55,103.1,119,103.7,5,8.1,1,1.9,7,6.1,1,0,102,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,40 to 59,4922,8925.9,5519,9708.9,10489,9366.2,180,326.4,118,207.6,299,267,26,47.2,19,33.4,45,40.2,0,1,48,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,5 to 11,1103,6731.4,988,6263.1,2106,6548.3,8,48.8,4,25.4,12,37.3,0,0,0,0,0,0,0,0,15,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,60 to 79,2491,5789.9,2283,4946.3,4789,5370.1,288,669.4,236,511.3,526,589.8,143,332.4,88,190.7,233,261.3,2,2,15,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,80+,634,8075.4,1104,9095.4,1746,8734.8,145,1846.9,176,1450,322,1610.9,132,1681.3,182,1499.4,315,1575.9,1,1,8,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Windsor-Essex County Health Unit ,All ages,18257,8440.7,18880,8795.8,37344,8665.6,717,331.5,606,282.3,1327,307.9,307,141.9,290,135.1,602,139.7,5,4,207,1,0,6
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,0 to 4,1550,5341,1342,4873.3,2898,5123.9,28,96.5,23,83.5,51,90.2,0,0,1,3.6,1,1.8,0,0,6,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,12 to 19,4780,7632.6,4584,7759.8,9422,7742,10,16,10,16.9,21,17.3,0,0,0,0,0,0,0,1,58,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,20 to 39,15890,10261.9,16963,11232.3,33061,10809.1,118,76.2,113,74.8,232,75.9,10,6.5,2,1.3,12,3.9,0,1,208,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,40 to 59,14437,8647.6,15934,8833.8,30507,8783.4,490,293.5,309,171.3,799,230,60,35.9,27,15,87,25,0,0,136,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,5 to 11,3316,6969.2,2917,6371.1,6271,6716.6,8,16.8,9,19.7,17,18.2,0,0,0,0,0,0,0,0,38,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,60 to 79,6594,6064.3,5878,4929,12533,5497.2,760,698.9,504,422.6,1267,555.7,220,202.3,114,95.6,334,146.5,0,3,61,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,80+,1465,7256.8,2183,8004.5,3660,7711.8,495,2452,497,1822.4,993,2092.3,296,1466.2,315,1155,611,1287.4,0,1,12,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",York Region Public Health,All ages,48052,8145.2,49812,8161.6,98385,8197,1911,323.9,1465,240,3382,281.8,586,99.3,459,75.2,1045,87.1,0,6,521,0,0,2
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,0 to 4,4259,6017.2,3769,5664.5,8054,5865.2,80,113,57,85.7,137,99.8,1,1.4,1,1.5,2,1.5,0,0,26,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,12 to 19,9743,8164.5,9579,8347.8,19444,8306.5,49,41.1,47,41,96,41,1,0.8,0,0,1,0.4,0,0,122,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,20 to 39,54292,10749.8,56712,11230.9,111796,11068.8,648,128.3,601,119,1259,124.7,25,5,14,2.8,46,4.6,7,10,792,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,40 to 59,35827,9517.2,41033,10272.6,77296,9962.3,1810,480.8,1237,309.7,3057,394,192,51,90,22.5,287,37,5,10,436,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,5 to 11,7822,8274.2,7025,7813.6,14919,8088.7,26,27.5,22,24.5,48,26,0,0,0,0,0,0,0,0,72,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,60 to 79,17352,7377.2,16721,6132.9,34240,6742.1,2988,1270.4,2190,803.2,5187,1021.4,864,367.3,475,174.2,1347,265.2,8,9,167,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,80+,5008,9451,8233,9592.9,13311,9589.2,1804,3404.5,2046,2383.9,3859,2780,1137,2145.7,1349,1571.8,2514,1811.1,28,9,70,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Toronto Public Health,All ages,134334,9236.8,143096,9327.9,279135,9340.6,7405,509.2,6200,404.2,13643,456.5,2220,152.6,1929,125.7,4197,140.4,48,38,1705,0,0,20
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,0 to 4,224,3414.1,206,3355,431,3393.4,9,137.2,7,114,16,126,0,0,0,0,0,0,0,0,1,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,12 to 19,448,4153.5,496,4813.2,944,4475.8,5,46.4,4,38.8,9,42.7,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,20 to 39,1526,5637.9,2201,8726.9,3727,7127.8,22,81.3,19,75.3,41,78.4,2,7.4,0,0,2,3.8,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,40 to 59,1348,4717.4,1743,6148.8,3094,5435.5,65,227.5,58,204.6,123,216.1,8,28,8,28.2,16,28.1,0,0,3,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,5 to 11,423,4505.3,360,3969.1,783,4241.8,2,21.3,0,0,2,10.8,0,0,0,0,0,0,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,60 to 79,815,3604.4,764,3130.2,1579,3358.3,139,614.7,86,352.4,225,478.5,35,154.8,29,118.8,64,136.1,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,80+,243,5739.3,419,6763.5,662,6347.7,73,1724.1,62,1000.8,135,1294.5,29,684.9,41,661.8,70,671.2,0,0,0,0,0,0
+Cumulative,"January 15, 2020","March 2, 2022",Southwestern Public Health,All ages,5027,4602.5,6189,5642.5,11220,5125.4,315,288.4,236,215.2,551,251.7,74,67.8,78,71.1,152,69.4,0,0,4,0,0,0

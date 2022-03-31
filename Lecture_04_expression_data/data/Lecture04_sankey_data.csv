@@ -1,0 +1,25 @@
+﻿source,target,value
+CoV,A549,0.25
+CoV,NHBE,0.25
+IVS,A549,0.25
+RSV,A549,0.25
+A549,RNAseq,0.7
+NHBE,RNAseq,0.2
+RNAseq,DESeq2,0.4
+RNAseq,Read coverage,0.4
+DESeq2,Volcano plots,0.15
+DESeq2,Heatmaps,0.15
+DESeq2,MA plots,0.15
+DESeq2,GO term analysis,0.15
+DESeq2,Prinicipal component analysis,0.15
+GO term analysis,Network diagrams,0.15
+Read coverage,Figure 1,0.2
+MA plots,Figure 2,0.15
+Heatmaps,Figure 2,0.08
+Heatmaps,Figure 3,0.08
+Read coverage,Figure 4,0.2
+Volcano plots,Figure 1,0.08
+Volcano plots,Figure 4,0.08
+Network diagrams,Figure 1,0.08
+Network diagrams,Figure 2,0.08
+Prinicipal component analysis,Figure 3,0.15
